@@ -134,7 +134,7 @@ $space::send,{space} ; allow spaces still
 *~?::
 *~Esc::
 *~Tab::
-;*~Space::
+;*~Space:: ;application hotkeyとコンフリクトしてたのでコメントアウト
 *~Left::
 *~Right::
 *~Up::
